@@ -1,2 +1,2 @@
-# databases_project
-Group project for the "Data Management and Databases" course
+# Digital Phenotyping of Student Well-Being: A Database Approach Based on the Dartmouth StudentLife Study
+Group project for the "Data Management and Databases" course. This project develops a structured relational database for analyzing digital phenotyping data derived from the StudentLife study conducted at Dartmouth College and presented in the paper StudentLife: Using Smartphones to Assess Mental Health and Academic Performance of College Students by Rui Wang et al.
